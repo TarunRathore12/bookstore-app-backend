@@ -1,0 +1,5 @@
+# Application configurations
+PORT=8080
+
+# Database Credentials
+MONGO_URI=DatabaseURI
